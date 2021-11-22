@@ -4,7 +4,7 @@
       "id": 1,
       "name": "computer",
       "price": 4300,
-      "quatity": 600,
+      "quantity": "2",
       "selected": true,
       "available": true
     },
@@ -17,12 +17,12 @@
       "available": true
     },
     {
-      "id": 3,
       "name": "Smartphone",
-      "price": 1200,
-      "quatity": 100,
-      "selected": false,
-      "available": true
+      "price": "500",
+      "quantity": "2",
+      "selected": true,
+      "available": true,
+      "id": 3
     }
   ]
 }
